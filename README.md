@@ -2,7 +2,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-My name is Donald and I am interested in all things tech. I'm currently studying cloud engineering with Level Up In Tech. Throughout the program I will be posting my projects and in depth walkthroughs of how I completed them. You are welcome to connect with me on LinkedIn.
+My name is Donald and I am interested in all things tech. I'm currently studying cloud engineering with Level Up In Tech. Throughout the program I will be posting my projects and in depth walkthroughs of how I completed them. My overall goal is to start a career in cloud engineering or cloud security.
 
 Find out more about me & feel free to connect with me here:
 
@@ -27,8 +27,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DKish17&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKish17&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=DKish17%2FDKish17&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=DKish17%2FDKish17)
