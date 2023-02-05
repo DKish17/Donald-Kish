@@ -2,7 +2,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-My name is Donald and I am interested in all things tech. I'm currently attending school fora bachelor's degree in cybersecurity. I'm also currently studying cloud engineering with Level Up In Tech.
+My name is Donald and I am interested in all things tech. I'm currently studying cloud engineering with Level Up In Tech. Throughout the program I will be posting my projects and in depth walkthroughs of how I completed them. You are welcome to connect with me on LinkedIn.
 
 Find out more about me & feel free to connect with me here:
 
